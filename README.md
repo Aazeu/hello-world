@@ -8,17 +8,11 @@ Pour le moment, nous sommes dans votre premier Dépôt (**repository**) GitHub. 
 
 Ce repository contient trois fichiers importants: le code HTML de votre premier site Web sur GitHub, la feuille de style CSS décorant votre site Web avec des couleurs et des polices, et le fichier **README**. Il contient également un dossier d'images, avec un fichier image.
 
-## Repositories
+## Décrivez votre projet
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+Vous consultez actuellement le fichier **README** de votre projet. Les fichiers **_README_** ressemblent à des pages de couverture ou à synopsis de votre projet. Ils sont écrits en texte brut ou en [langage de marquage] (https://guides.github.com/features/mastering-markdown/) et comprennent généralement un paragraphe décrivant le projet, indiquant comment l'utiliser, qui en est l'auteur, et plus.
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
-
-## Describe your project
-
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
-
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+[En savoir plus sur les fichiers README](https://help.github.com/en/articles/about-readmes)
 
 ## Your first website
 
