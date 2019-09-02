@@ -1,6 +1,12 @@
-# Welcome to GitHub
+# Bienvenu au GitHub
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+Bienvenue dans GitHub, où des millions de développeurs travaillent ensemble sur des logiciels. Prêt à commencer? Apprenons comment tout cela fonctionne en construisant et en publiant votre premier site Web GitHub Pages!
+
+## Dépôts (Repositories)
+
+Pour le moment, nous sommes dans votre premier Dépôt (**repository**) GitHub. Un Dépôt est comme un dossier ou un espace de stockage pour votre projet. Le Dépôt de votre projet contient tous ses fichiers, tels que du code, de la documentation, des images, etc. Il suit également chaque modification apportée par vous, ou par vos collaborateurs, à chaque fichier. Vous pouvez ainsi toujours revenir aux versions précédentes de votre projet si vous faites des erreurs.
+
+Ce repository contient trois fichiers importants: le code HTML de votre premier site Web sur GitHub, la feuille de style CSS décorant votre site Web avec des couleurs et des polices, et le fichier **README**. Il contient également un dossier d'images, avec un fichier image.
 
 ## Repositories
 
